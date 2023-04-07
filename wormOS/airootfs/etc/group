@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:squirmles
+wheel:x:10:squirmles
+uucp:x:14:squirmles
+squirmles:x:1000:

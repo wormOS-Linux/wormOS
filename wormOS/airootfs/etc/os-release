@@ -1,0 +1,8 @@
+NAME="wormOS"
+PRETTY_NAME="wormOS GNU/Linux"
+ID=worm
+BUILD_ID=development
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://wormos-linux.github.io/"
+DOCUMENTATION_URL="https://wormos-linux.github.io/"
+LOGO=archlinux-logo

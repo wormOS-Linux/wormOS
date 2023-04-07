@@ -1,0 +1,3 @@
+# Ignores temp directories the install script will make.
+work/
+iso/
